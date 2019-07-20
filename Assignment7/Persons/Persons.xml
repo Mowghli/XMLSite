@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsd"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsl"?>
+<Persons>
+	<Person>
+		<Name>
+			<First>Amogh</First>
+			<Last>Bhabal</Last>
+		</Name>
+		<Credential>
+			<Id>1215139822</Id>
+			<Password Encryption="yes">HelloMoto</Password>
+		</Credential>
+		<Phone>
+			<Work>4802522613</Work>
+			<Cell Provider="Cricket">4802522613</Cell>
+		</Phone>
+		<Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Parth</First>
+		<Last>Doshi</Last>
+		</Name>
+		<Credential>
+			<Id>2893579238</Id>
+			<Password Encryption="yes">YoloSwag</Password>
+		</Credential>
+		<Phone>
+			<Work>23523534324</Work>
+			<Cell Provider="Verizon">8217198123</Cell>
+		</Phone>
+		<Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Swaraj</First>
+			<Last>Patel</Last>
+		</Name>
+		<Credential>
+			<Id>372858325</Id>
+			<Password Encryption="yes">YoloRegiICe</Password>
+		</Credential>
+		<Phone>
+			<Work>7389248937</Work>
+			<Cell Provider="TMobile">93280423</Cell>
+		</Phone>
+		<Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Anik</First>
+			<Last>Pait</Last>
+		</Name>
+		<Credential>
+			<Id>839257234</Id>
+			<Password Encryption="yes">DestinyDeoxys</Password>
+		</Credential>
+		<Phone>
+			<Work>28495732</Work>
+			<Cell Provider="Lyca">183947924</Cell>
+		</Phone>
+		<Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Akshay</First>
+			<Last>Shah</Last>
+		</Name>
+		<Credential>
+			<Id>238974523214</Id>
+			<Password Encryption="yes">Trololo</Password>
+		</Credential>
+		<Phone>
+			<Work>382742984</Work>
+			<Cell Provider="Verizon">23897529</Cell>
+		</Phone>
+		<Category>Family</Category>
+	</Person>
+</Persons>

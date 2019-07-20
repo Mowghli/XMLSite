@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLWebSite", "Assignment7\XMLWebSite.csproj", "{B39F903C-2DD7-41FA-9903-30417360C3FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60} = {1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}
+		{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82} = {916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validator", "Validator\Validator.csproj", "{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformer", "Transformer\Transformer.csproj", "{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39F903C-2DD7-41FA-9903-30417360C3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39F903C-2DD7-41FA-9903-30417360C3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39F903C-2DD7-41FA-9903-30417360C3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39F903C-2DD7-41FA-9903-30417360C3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916EE1DD-79DC-4A6F-B32B-AE9261CA5F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDA8DDC-5FAF-49B4-AFC0-59BD75816C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC44C31E-701D-464A-81DA-22456E20CCA3}
+	EndGlobalSection
+EndGlobal
